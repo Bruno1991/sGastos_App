@@ -1,21 +1,6 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
   module.exports = [
-    {
-      "id": "admob-plus-cordova.AdMob",
-      "file": "plugins/admob-plus-cordova/www/admob.js",
-      "pluginId": "admob-plus-cordova",
-      "clobbers": [
-        "admob"
-      ]
-    },
-    {
-      "id": "cordova-plugin-consent.Consent",
-      "file": "plugins/cordova-plugin-consent/www/consent.js",
-      "pluginId": "cordova-plugin-consent",
-      "clobbers": [
-        "consent"
-      ]
-    },
+
     {
       "id": "cordova-plugin-android-permissions.Permissions",
       "file": "plugins/cordova-plugin-android-permissions/www/permissions.js",
@@ -522,8 +507,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     }
   ];
   module.exports.metadata = {
-    "admob-plus-cordova": "2.0.0-alpha.19",
-    "cordova-plugin-consent": "3.0.0-alpha.9",
+
     "cordova-plugin-android-permissions": "1.1.5",
     "cordova-plugin-badge": "0.8.9",
     "cordova-plugin-camera": "8.0.0",
