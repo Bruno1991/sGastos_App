@@ -1,0 +1,39 @@
+.chartRed1{background-color:#ea3d15; color:#FFF;}
+.chartRed2{background-color:#FF5B5B; color:#FFF;}
+.chartRed3{background-color:#CA1900; color:#FFF;}
+.chartRed4{background-color:#FF7342; color:#FFF;}
+.chartRed5{background-color:#D32F2F; color:#FFF;}
+.chartPurple1{background-color:#90428B; color:#FFF;}
+.chartPurple2{background-color:#AD007A; color:#FFF;}
+.chartPurple3{background-color:#825DFF; color:#FFF;}
+.chartPurple4{background-color:#D81B60; color:#FFF;}
+.chartPurple5{background-color:#512DA8; color:#FFF;}
+.chartGray1{background-color:#868686; color:#FFF;}
+.chartGray2{background-color:#B7B7B7; color:#FFF;}
+.chartGray3{background-color:#424242; color:#FFF;}
+.chartBlue7{background-color:#8397AB; color:#FFF;}
+.chartBlue1{background-color:#188ed6; color:#FFF;}
+.chartBlue2{background-color:#003b77; color:#FFF;}
+.chartBlue3{background-color:#00739C; color:#FFF;}
+.chartBlue4{background-color:#2CC7FF; color:#FFF;}
+.chartBlue5{background-color:#005B7B; color:#FFF;}
+.chartBlue6{background-color:#5D74FF; color:#FFF;}
+.chartBlue8{background-color:#3F51B5; color:#FFF;}
+.chartGreen1{background-color:#71b210; color:#FFF;}
+.chartGreen2{background-color:#2A8800; color:#FFF;}
+.chartGreen3{background-color:#3ECA00; color:#FFF;}
+.chartGreen4{background-color:#1A5400; color:#FFF;}
+.chartGreen5{background-color:#40B752; color:#FFF;}
+.chartGreen6{background-color:#869400; color:#FFF;}
+.chartOrange1{background-color:#ff9600; color:#FFF;}
+.chartOrange2{background-color:#E0AC00; color:#FFF;}
+.chartYellow1{background-color:#FFCA28; color:#FFF;}
+.chartOrange3{background-color:#FFB040; color:#FFF;}
+.chartOrange4{background-color:#BF360C; color:#FFF;}
+.chartBrown1{background-color:#A04F00; color:#FFF;}
+
+.colorsRoundBoder{
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
